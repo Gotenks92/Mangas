@@ -23,9 +23,17 @@
     },
     "03": {
       "title": "La fureur de Beerus",
-      "volume": "02",
+      "volume": "01",
       "groups": {
-        "Chromatique": "/proxy/api/imgur/chapter/1IDWmX7/"
+        "Chromatique": "/proxy/api/imgur/chapter/TckGFXM/"
+      },
+      "last_updated": "1616368746"
+    },
+    "04": {
+      "title": "Battle of Gods",
+      "volume": "01",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/1ZjSK78/"
       },
       "last_updated": "1616368746"
     }
