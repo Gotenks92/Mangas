@@ -356,6 +356,38 @@
         "Chromatique": "/proxy/api/imgur/chapter/eM5zn7U/"
       },
       "last_updated": "1574204400"
+    },
+    "45": {
+      "title": "La magie de Moro",
+      "volume": "10",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/3OVhtuU/"
+      },
+      "last_updated": "1580857200"
+    },
+    "46": {
+      "title": "La planète Namek dépérit",
+      "volume": "10",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/FJMkTdY/"
+      },
+      "last_updated": "1580857200"
+    },
+    "47": {
+      "title": "Main basse sur les Dragon Balls",
+      "volume": "10",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/oYGkG0r/"
+      },
+      "last_updated": "1580857200"
+    },
+    "48": {
+      "title": "Le vœu  de Moro",
+      "volume": "10",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/nIkmVjr/"
+      },
+      "last_updated": "1580857200"
     }
   }
 }
