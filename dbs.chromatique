@@ -292,6 +292,22 @@
         "Chromatique": "/proxy/api/imgur/chapter/8RQjB9l/"
       },
       "last_updated": "1556748000"
+    },
+    "37": {
+      "title": "Kale s'éveille au Super Saiyan",
+      "volume": "08",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/2h1qtny/"
+      },
+      "last_updated": "1562104800"
+    },
+    "38": {
+      "title": "L'ultime recours de l'univers 6",
+      "volume": "08",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/gGk7PLZ/"
+      },
+      "last_updated": "1562104800"
     }
   }
 }
