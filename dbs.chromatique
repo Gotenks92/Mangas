@@ -297,7 +297,7 @@
       "title": "Kale s'éveille au Super Saiyan",
       "volume": "08",
       "groups": {
-        "Chromatique": "/proxy/api/imgur/chapter/2h1qtny/"
+        "Chromatique": "/proxy/api/imgur/chapter/ezv3f8c/"
       },
       "last_updated": "1562104800"
     },
@@ -314,6 +314,14 @@
       "volume": "08",
       "groups": {
         "Chromatique": "/proxy/api/imgur/chapter/wGIJsyL/"
+      },
+      "last_updated": "1562104800"
+    },
+    "40": {
+      "title": "Jiren vs l'univers 7",
+      "volume": "08",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/sIT7R1j/"
       },
       "last_updated": "1562104800"
     }
