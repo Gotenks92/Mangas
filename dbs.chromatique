@@ -1,0 +1,169 @@
+{
+  "title": "Dragon Ball Super",
+  "description": "L'histoire de Dragon Ball Super est une suite directe du manga d'Akira Toriyama et de la série Dragon Ball Z. \n\nElle se situe après la fin de l'arc Boo et avant le début du 28e Championnat du Monde d'arts martiaux. \n\nElle ne reprend donc pas le scénario de la série Dragon Ball GT.",
+  "artist": "Toyotarō",
+  "author": "Akira Toriyama",
+  "cover": "https://www.glenat.com/sites/default/files/images/livres/couv/9782344019887-001-T.jpeg",
+  "chapters": {
+    "01": {
+      "title": "Le rêve prémonitoire du dieu de la destruction",
+      "volume": "01",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/6IIIFh0/"
+      },
+      "last_updated": "1491343200"
+    },
+    "02": {
+      "title": "La défaite de Goku",
+      "volume": "01",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/64omst5/"
+      },
+      "last_updated": "1491343200"
+    },
+    "03": {
+      "title": "La fureur de Beerus",
+      "volume": "01",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/TckGFXM/"
+      },
+      "last_updated": "1491343200"
+    },
+    "04": {
+      "title": "Battle of Gods",
+      "volume": "01",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/1ZjSK78/"
+      },
+      "last_updated": "1491343200"
+    },
+     "05": {
+      "title": "Beerus et Champa",
+      "volume": "01",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/d5B2dX6/"
+      },
+      "last_updated": "1491343200"
+    },
+     "06": {
+      "title": "Préparatifs du tournoi",
+      "volume": "01",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/jo3GicX/"
+      },
+      "last_updated": "1491343200"
+    },
+    "07": {
+      "title": "Les guerriers de l'univers 6",
+      "volume": "01",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/3Lt1q9i/"
+      },
+      "last_updated": "1491343200"
+    },
+    "08": {
+      "title": "Début du tournoi !",
+      "volume": "01",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/X52hY9g/"
+      },
+      "last_updated": "1491343200"
+    },
+    "09": {
+      "title": "Goku vs Botamo",
+      "volume": "01",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/sjpV1dA/"
+      },
+      "last_updated": "1491343200"
+    },
+    "10": {
+      "title": "La vraie nature de Frost",
+      "volume": "02",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/tj15ity/"
+      },
+      "last_updated": "1499205600"
+    },
+    "11": {
+      "title": "Entrée en scène de Vegeta !!",
+      "volume": "02",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/kNxTEVf/"
+      },
+      "last_updated": "1499205600"
+    },
+    "12": {
+      "title": "La fierté des Saiyans",
+      "volume": "02",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/Rx6NEDo/"
+      },
+      "last_updated": "1499205600"
+    },
+    "13": {
+      "title": "L'annonce de l'univers gagnant !!",
+      "volume": "02",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/a760oau/"
+      },
+      "last_updated": "1499205600"
+    },
+    "14": {
+      "title": "Un SOS venu du futur",
+      "volume": "02",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/qH8nBph/"
+      },
+      "last_updated": "1499205600"
+    },
+    "15": {
+      "title": "Un nouvel espoir",
+      "volume": "02",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/LFgRr5k/"
+      },
+      "last_updated": "1499205600"
+    },
+    "16": {
+      "title": "Le passé de Trunks du futur",
+      "volume": "03",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/gUAsnKT/"
+      },
+      "last_updated": "1516748400"
+    },
+    "17": {
+      "title": "Zamasu, l'apprenti Kaio Shin de l'univers 10",
+      "volume": "03",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/htLOHsF/"
+      },
+      "last_updated": "1516748400"
+    },
+    "18": {
+      "title": "L'identité de Goku Black",
+      "volume": "03",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/HIcY7m8/"
+      },
+      "last_updated": "1516748400"
+    },
+    "19": {
+      "title": "L'autre Zamasu",
+      "volume": "03",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/XG7Yu4W/"
+      },
+      "last_updated": "1516748400"
+    },
+    "20": {
+      "title": "Le plan ''Zéro humain''",
+      "volume": "03",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/MSq38NC/"
+      },
+      "last_updated": "1516748400"
+    }
+  }
+}
