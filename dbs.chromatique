@@ -388,6 +388,14 @@
         "Chromatique": "/proxy/api/imgur/chapter/nIkmVjr/"
       },
       "last_updated": "1580857200"
+    },
+    "49": {
+      "title": "Le combat spatial",
+      "volume": "11",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter//"
+      },
+      "last_updated": "1593554400"
     }
   }
 }
