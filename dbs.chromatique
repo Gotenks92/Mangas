@@ -324,6 +324,38 @@
         "Chromatique": "/proxy/api/imgur/chapter/sIT7R1j/"
       },
       "last_updated": "1562104800"
+    },
+    "41": {
+      "title": "Le réflexe transcendantal",
+      "volume": "09",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/nr92NDH/"
+      },
+      "last_updated": "1574204400"
+    },
+    "42": {
+      "title": "Conclusion et dénouement",
+      "volume": "09",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/YsSXqgw/"
+      },
+      "last_updated": "1574204400"
+    },
+    "43": {
+      "title": "On intègre la patrouille galactique !",
+      "volume": "09",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/edCxL6e/"
+      },
+      "last_updated": "1574204400"
+    },
+    "44": {
+      "title": "Moro l'évadé",
+      "volume": "09",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/eM5zn7U/"
+      },
+      "last_updated": "1574204400"
     }
   }
 }
