@@ -420,6 +420,46 @@
         "Chromatique": "/proxy/api/imgur/chapter/8FFQCkn/"
       },
       "last_updated": "1593554400"
+    },
+    "53": {
+      "title": "Le gang galactique de Saganbo",
+      "volume": "12",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/CkDC7xF/"
+      },
+      "last_updated": "1604444400"
+    },
+    "54": {
+      "title": "Gohan vs Seven-Three",
+      "volume": "12",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/5ovRnTI/"
+      },
+      "last_updated": "1604444400"
+    },
+    "55": {
+      "title": "L'identité de Merus",
+      "volume": "12",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/kwZ7tDy/"
+      },
+      "last_updated": "1604444400"
+    },
+    "56": {
+      "title": "Rassemblement des guerriers terriens",
+      "volume": "12",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/T2mogM6/"
+      },
+      "last_updated": "1604444400"
+    },
+    "57": {
+      "title": "Combats divers",
+      "volume": "13",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/W6NFm6u/"
+      },
+      "last_updated": "1612306800"
     }
   }
 }
