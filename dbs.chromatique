@@ -390,10 +390,34 @@
       "last_updated": "1580857200"
     },
     "49": {
-      "title": "Le combat spatial",
+      "title": "Bataille spatiale",
       "volume": "11",
       "groups": {
-        "Chromatique": "/proxy/api/imgur/chapter//"
+        "Chromatique": "/proxy/api/imgur/chapter/F6LvpXk/"
+      },
+      "last_updated": "1593554400"
+    },
+    "50": {
+      "title": "La grande évasion",
+      "volume": "11",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/85AbfNY/"
+      },
+      "last_updated": "1593554400"
+    },
+    "51": {
+      "title": "Chacun de son côté",
+      "volume": "11",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/SVsh5vF/"
+      },
+      "last_updated": "1593554400"
+    },
+    "52": {
+      "title": "Les entraînements de Goku et Vegeta",
+      "volume": "11",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/8FFQCkn/"
       },
       "last_updated": "1593554400"
     }
