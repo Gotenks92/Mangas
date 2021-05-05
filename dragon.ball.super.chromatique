@@ -1,15 +1,15 @@
 {
-  "title": "<Dragon Ball Super>",
-  "description": "<L'histoire de Dragon Ball Super est une suite directe du manga d'Akira Toriyama et de la série Dragon Ball Z. Elle se situe après la fin de l'arc Boo et avant le début du 28e Championnat du Monde d'arts martiaux. Elle ne reprend donc pas le scénario de la série Dragon Ball GT.>",
-  "artist": "<Toyotarō>",
-  "author": "<Akira Toriyama>",
-  "cover": "<https://www.glenat.com/sites/default/files/images/livres/couv/9782344019887-001-T.jpeg>",
+  "title": "Dragon Ball Super",
+  "description": "L'histoire de Dragon Ball Super est une suite directe du manga d'Akira Toriyama et de la série Dragon Ball Z. \n\nElle se situe après la fin de l'arc Boo et avant le début du 28e Championnat du Monde d'arts martiaux. \n\nElle ne reprend donc pas le scénario de la série Dragon Ball GT.",
+  "artist": "Toyotarō",
+  "author": "Akira Toriyama",
+  "cover": "https://www.glenat.com/sites/default/files/images/livres/couv/9782344019887-001-T.jpeg",
   "chapters": {
-    "<01>": {
-      "title": "<Le rêve prémonitoire du dieu de la destruction>",
-      "volume": "<01>",
+    "01": {
+      "title": "Le rêve prémonitoire du dieu de la destruction",
+      "volume": "01",
       "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/<6IIIFh0>/"
+        "Chromatique": "/proxy/api/imgur/chapter/<6IIIFh0>/"
       },
       "last_updated": "1616368746"
     }
